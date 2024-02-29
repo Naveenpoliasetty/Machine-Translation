@@ -15,7 +15,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/machine-translation-project.git
+git clone https://github.com/Naveenpoliasetty/Machine-Translation/blob/main/README.md.git
 ```
 
 2. Install dependencies:
